@@ -8,7 +8,6 @@ Druid Wild Shapes:
 
 
 ---
-[Back to top](#dnd-helper) 
 ___
 >## Deinonychus
 >*Medium Beast (Dinosaur), unaligned*
@@ -37,7 +36,6 @@ ___
 >***Claw.*** *Melee Weapon Attack:*  +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) slashing damage.
 
 ---
-[Back to top](#dnd-helper) 
 
 ___
 >## Hadrosaurus
@@ -63,7 +61,6 @@ ___
 
 
 ---
-[Back to top](#dnd-helper) 
 ___
 >## Ox
 >*Large Beast (Cattle), unaligned*
